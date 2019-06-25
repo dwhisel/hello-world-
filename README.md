@@ -1,2 +1,2 @@
 # hello-world- My first repository 
-I love to geek out brew beer and then party!!!
+I love to geek out 
